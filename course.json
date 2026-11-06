@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-F07",
+  "repository": "icb-f07-ai-literacy-recognition-work",
+  "repository_url": "https://github.com/ICoBC/icb-f07-ai-literacy-recognition-work",
+  "title": "AI Literacy for Recognition Work",
+  "subtitle": "What staff who design, assess or verify credentials need to know about AI.",
+  "version": "1.0.0",
+  "series": "Foundation",
+  "skill": "Trustworthy AI in recognition",
+  "level": "1",
+  "level_name": "Contribute",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-AIRC-L1-K",
+  "badge_name": "AI Literacy for Recognition Work (Knowledge, L1)",
+  "hours": "2",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-f07/",
+  "parts": [
+    "About this course",
+    "How AI systems produce outputs",
+    "AI across the credential lifecycle",
+    "The EU AI Act in brief",
+    "Risks: bias, fabrication, privacy, over-reliance",
+    "Working rules for your team",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 12
+}
